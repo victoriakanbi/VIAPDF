@@ -9,5 +9,3 @@ reportlab
 python-pptx
 pytesseract
 streamlit-drawable-canvas
-pandas
-openpyxl
