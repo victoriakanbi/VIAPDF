@@ -1,0 +1,13 @@
+streamlit
+pypdf
+pdf2image
+img2pdf
+pdf2docx
+pdfplumber
+pikepdf
+reportlab
+python-pptx
+pytesseract
+streamlit-drawable-canvas
+pandas
+openpyxl
